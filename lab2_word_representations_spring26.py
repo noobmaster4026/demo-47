@@ -99,7 +99,7 @@ Word2Vec is a neural network-based model that learns word embeddings by predicti
 
 # Libraries
 
-!pip install gensim
+
 import gensim
 from gensim.models import Word2Vec
 
